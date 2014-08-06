@@ -9,7 +9,7 @@ simple library built off of [BlastJS](https://github.com/julianshapiro/blast) th
 - include the dotify.js file
 - add `$(selector).dotify()` in appropriate frontend js file (inside `<script>` block somewhere, inside main.js, etc)
 
-### [EXAMPLE](http://jsfiddle.net/MzH74/4/) 
+### [EXAMPLE HERE](http://jsfiddle.net/MzH74/4/) 
 
 ### TODOs:
 
